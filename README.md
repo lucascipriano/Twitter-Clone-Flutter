@@ -13,3 +13,4 @@ Clone do Twitter feito em menos de 3 horas.
 
 4 - O código está bagunçado, quando fizer algo com API aplico um MVC decente.
 
+5 - Dava para deixar as coisas mais simples, escopar corretamente, deixar mais editável a foto, horário do post, mas não era a intenção.
